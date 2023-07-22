@@ -58,3 +58,11 @@ We welcome contributions to enhance the functionality and accessibility of the D
 
 
 Thank you for showing interest in the Divyanjgan Identity Card Application. We believe this project will make a positive impact on the lives of physically handicapped individuals, offering them increased accessibility to essential services. If you have any questions or feedback, please don't hesitate to reach out to us.
+
+![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/f549e46f-dbe8-4cf2-aa7e-f84ac897a185)
+![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/a973f8da-0479-4287-8f25-dfd4c0008cfb)
+  ![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/7c4f8239-4f20-4c83-a398-e8361e99abcc)
+
+![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/265c0719-113e-47ba-b746-5b751494c5ab)
+![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/8499bd03-7503-41bf-9d58-2cbe0a64a5c0)
+

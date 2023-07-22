@@ -64,5 +64,3 @@ Thank you for showing interest in the Divyanjgan Identity Card Application. We b
   ![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/7c4f8239-4f20-4c83-a398-e8361e99abcc)
 
 ![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/265c0719-113e-47ba-b746-5b751494c5ab)
-![image](https://github.com/mohit-kota/Divyanjgan_Identity_Card_System/assets/96908137/8499bd03-7503-41bf-9d58-2cbe0a64a5c0)
-
